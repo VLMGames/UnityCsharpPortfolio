@@ -19,6 +19,14 @@ This project is a prototype of a factory automation system built in Unity. The g
 * **Data-driven Design:** Uses `ItemRequirement` and recipe lists for flexible economic balancing.
 * **Seamless Ports:** Logic for input/output ports enables direct item transfer between buildings and conveyor belts.
 
+## 🎥 Project Demonstrations
+
+Here you can see the systems in action:
+
+* [View Conveyor Placement Demo](https://drive.google.com/file/d/1pv8u85wfScjpQaA6W-kSMM7IQPf2D5rG/view?usp=drive_link)
+* [View Building Placement & Logic](https://drive.google.com/file/d/1w_QMEXaj4Y0B4tB4JR8SN5KvnZXGDKzr/view?usp=drive_link)
+* [View Production & Automation Flow](https://drive.google.com/file/d/1Qw1bSd9lh6h60EgA5w4ZSp-u1yV49YVb/view?usp=drive_link)
+
 ## 💻 Technical Stack
 * **Engine:** Unity
 * **Language:** C#
